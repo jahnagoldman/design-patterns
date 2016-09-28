@@ -1,5 +1,5 @@
 # Design Patterns
-In my Advanced Java class, I presented on the topic of Design Patterns from the Gang of Four. These are my PowerPoint slides code examples I created for the
+In my Advanced Java class, I presented on the topic of Design Patterns from the Gang of Four. Here are my PowerPoint slides and code examples I created for the
 following Design Patterns:
 
 
